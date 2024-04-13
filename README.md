@@ -53,6 +53,7 @@
 
 
 ## Output:
+![Output](https://github.com/amal-2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148410730/7ffae80e-a2de-49f5-93ad-bd933e19c856)
 
 
 ### Name: AMALJOSH MAADHAV J
